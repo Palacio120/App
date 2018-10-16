@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1072513472953",
+    "firebase_url": "https://uniexpress-75492.firebaseio.com",
+    "project_id": "uniexpress-75492",
+    "storage_bucket": "uniexpress-75492.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072513472953:android:12321d77c9c1bd4d",
+        "android_client_info": {
+          "package_name": "com.example.alejandropalacio.prueba1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072513472953-luimf2il6tuetpua2elmfap93tfe0uf9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.alejandropalacio.prueba1",
+            "certificate_hash": "84547ae880dac3e8ffb560c8bc8bc8a32c95b322"
+          }
+        },
+        {
+          "client_id": "1072513472953-gctcrduunjhrtcvn1pmnmmr13979nvvb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGN2-TeODchYW-BGa-3wcdk5-s5Z0ci-8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072513472953-gctcrduunjhrtcvn1pmnmmr13979nvvb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
